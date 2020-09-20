@@ -115,6 +115,44 @@
       }
     ]
   }
+ ],
+  
+  "equipment":[
+  {
+    "id":1,
+    "title":"Projector and Screen",
+    "bookMultipleUnits":false,
+    "price":200,
+    "isPerHour":false
+  },
+  {
+    "id":2,
+    "title":"Laptop",
+    "bookMultipleUnits":true,
+    "price":400,
+    "isPerHour":false
+  },
+  {
+    "id":3,
+    "title":"Printer",
+    "bookMultipleUnits":false,
+    "price":20,
+    "isPerHour":false
+  },
+  {
+    "id":4,
+    "title":"Flipchart",
+    "bookMultipleUnits":true,
+    "price":200,
+    "isPerHour":true
+  },
+  {
+    "id":5,
+    "title":"Video Conferencing",
+    "bookMultipleUnits":false,
+    "price":200,
+    "isPerHour":true
+  }
 ]
 
 }

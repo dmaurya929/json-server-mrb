@@ -1,0 +1,121 @@
+{
+
+  "room": [
+    {"id":1,"hourSlots":"11100001110011","halfDay":"01","day":null, "date":"2020-09-20"},
+    {"id":2,"hourSlots":"10000001110011","halfDay":"11","day":null, "date":"2020-09-20"},
+    {"id":3,"hourSlots":"10001101110011","halfDay":"01","day":true, "date":"2020-09-21"}
+  ],
+
+  "rooms": [
+  {
+    "id":1,
+    "title":"Small conference room",
+    "image":"https://honesbusinesspark.co.uk/wp-content/uploads/2017/11/meeting-room.png",
+    "capacity":10,
+    "isActive":true,
+    "bookForDay":true,
+    "priceForDay":300,
+    "bookForHalfDay":true,
+    "priceForHalfDay":200,
+    "bookForHour":true,
+    "priceForHour":50,
+    "description":"Situated in an instantly recognized address, a short walk from Westminster, these serviced offices are imposing. Accessible from Charing Cross station, they are perfect for businesses needing access to London's leading minds in law, art or government. Break-out areas to brainstorm ideas. Major transport links making it perfect if you travel.\nWidth: 7.85m\nLength: 9.6m\nHeight: 3.25m\nTotal Floor Space: 76m",
+    "layouts":[
+      {
+        "id":1,
+        "title":"Panaromic View",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410226_WGISnkPat9I1rC5iGZ2ougBTACVLyaxL.jpg"
+      },
+      {
+        "id":2,
+        "title":"Circular",
+        "image":"https://t3.ftcdn.net/jpg/02/12/41/02/240_F_212410226_WGISnkPat9I1rC5iGZ2ougBTACVLyaxL.jpg"
+      },
+      {
+        "id":3,
+        "title":"Round table",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410228_vSGmrCKWPyMI2ObcnBevg9jVSLeHpoVa.jpg"
+      },
+      {
+        "id":4,
+        "title":"Classroom",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410233_B010zX32LPcjp48j4QNXuqFzbEPFWseY.jpg"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "title":"Large conference room",
+    "image":"https://studio42workspaces.com/wp-content/uploads/2018/08/meeting-room-hire-page-cropped-compressed.jpg",
+    "capacity":30,
+    "isActive":true,
+    "bookForDay":true,
+    "priceForDay":400,
+    "bookForHalfDay":true,
+    "priceForHalfDay":200,
+    "bookForHour":true,
+    "priceForHour":40,
+    "description":"Situated in an instantly recognized address, a short walk from Westminster, these serviced offices are imposing. Accessible from Charing Cross station, they are perfect for businesses needing access to London's leading minds in law, art or government. Break-out areas to brainstorm ideas. Major transport links making it perfect if you travel.\nWidth: 7.85m\nLength: 9.6m\nHeight: 3.25m\nTotal Floor Space: 76m",
+    "layouts":[
+      {
+        "id":1,
+        "title":"Panaromic View",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410226_WGISnkPat9I1rC5iGZ2ougBTACVLyaxL.jpg"
+      },
+      {
+        "id":2,
+        "title":"Circular",
+        "image":"https://t3.ftcdn.net/jpg/02/12/41/02/240_F_212410226_WGISnkPat9I1rC5iGZ2ougBTACVLyaxL.jpg"
+      },
+      {
+        "id":3,
+        "title":"Round table",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410228_vSGmrCKWPyMI2ObcnBevg9jVSLeHpoVa.jpg"
+      },
+      {
+        "id":4,
+        "title":"Classroom",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410233_B010zX32LPcjp48j4QNXuqFzbEPFWseY.jpg"
+      }
+    ]
+  },
+  {
+    "id":3,
+    "title":"Gathering room",
+    "image":"https://studio42workspaces.com/wp-content/uploads/2018/08/meeting-room-hire-page-cropped-compressed.jpg",
+    "capacity":40,
+    "isActive":true,
+    "bookForDay":true,
+    "priceForDay":500,
+    "bookForHalfDay":true,
+    "priceForHalfDay":300,
+    "bookForHour":true,
+    "priceForHour":60,
+    "description":"Situated in an instantly recognized address, a short walk from Westminster, these serviced offices are imposing. Accessible from Charing Cross station, they are perfect for businesses needing access to London's leading minds in law, art or government. Break-out areas to brainstorm ideas. Major transport links making it perfect if you travel.\nWidth: 7.85m\nLength: 9.6m\nHeight: 3.25m\nTotal Floor Space: 76m",
+    "layouts":[
+      {
+        "id":1,
+        "title":"Panaromic View",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410226_WGISnkPat9I1rC5iGZ2ougBTACVLyaxL.jpg"
+      },
+      {
+        "id":2,
+        "title":"Circular",
+        "image":"https://t3.ftcdn.net/jpg/02/12/41/02/240_F_212410226_WGISnkPat9I1rC5iGZ2ougBTACVLyaxL.jpg"
+      },
+      {
+        "id":3,
+        "title":"Round table",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410228_vSGmrCKWPyMI2ObcnBevg9jVSLeHpoVa.jpg"
+      },
+      {
+        "id":4,
+        "title":"Classroom",
+        "image":"https://as1.ftcdn.net/jpg/02/12/41/02/500_F_212410233_B010zX32LPcjp48j4QNXuqFzbEPFWseY.jpg"
+      }
+    ]
+  }
+]
+
+}
+

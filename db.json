@@ -154,7 +154,7 @@
     "isPerHour":true
   }
 ],
-  foodanddrinks: [
+  "foodanddrinks": [
   {"id":1,"title":"Coffee","price":20},
   {"id":2,"title":"Champagne","price":25},
   {"id":3,"title":"Nut(mixed)","price":30},
